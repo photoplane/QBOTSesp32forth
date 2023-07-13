@@ -12,3 +12,7 @@ Splitter of sockets for the two motors and the power supply.
 Pinout ESP32.
 
 
+
+https://github.com/photoplane/QBOTSesp32forth/assets/31778273/2f3d38d2-9250-4e2e-b488-4537b929ff29
+
+
