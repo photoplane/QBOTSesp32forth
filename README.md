@@ -1,4 +1,7 @@
 # QBOTSesp32forth
+
+![QbotsEsp32](https://github.com/photoplane/QBOTSesp32forth/assets/31778273/b80c43a1-0b0c-4732-ae48-a43f7a338b79)
+
 The QBOTS is programmed in Forth with ESP32.
 
 
